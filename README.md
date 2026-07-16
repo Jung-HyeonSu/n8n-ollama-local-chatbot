@@ -158,3 +158,7 @@ docker compose down -v
 ```
 
 > 위 명령은 n8n 설정과 다운로드한 모델을 모두 삭제합니다.
+
+## 관련 글
+
+- [Jung-HyeonSu의 Velog](https://velog.io/@hyeonsu/posts)

@@ -12,6 +12,10 @@ n8n Chat Trigger
 Ollama Chat Model
 ```
 
+실제로 실행한 n8n 워크플로와 로컬 모델의 응답 결과입니다.
+
+![n8n과 Ollama 챗봇 워크플로](assets/n8n-workflow.png)
+
 - **n8n**: 채팅 입력과 AI 워크플로 관리
 - **Ollama**: 로컬 LLM 서버
 - **qwen3:4b-instruct**: 내부 추론을 길게 출력하지 않는 채팅용 모델

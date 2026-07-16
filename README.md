@@ -1,5 +1,7 @@
 # n8n + Ollama Local Chatbot
 
+![n8n과 Ollama로 만드는 로컬 AI 챗봇](assets/cover.png)
+
 API 키와 토큰 과금 없이 로컬에서 실행하는 AI 챗봇 예제입니다. n8n이 채팅 워크플로를 관리하고, Ollama의 `qwen3:4b-instruct` 모델이 답변을 생성합니다.
 
 ## 구성
